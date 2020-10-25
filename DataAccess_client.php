@@ -1,10 +1,4 @@
 <?php
- /** 
-  @Description: Web service client
-  This Script creates a client using NuSOAP php library. 
-  @Author:  Neila BEN LAKHAL
-  @Website: neila.benlakhal@github.io
- */
 // Pull in the NuSOAP code
 require_once('lib/nusoap.php');
 	$error  = '';
